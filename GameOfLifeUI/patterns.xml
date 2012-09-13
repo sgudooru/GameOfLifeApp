@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Pattern>
+    <Name>Block</Name>
+    <Rows>4</Rows>
+    <Columns>4</Columns>
+    <Values>5, 6, 9, 10</Values>
+  </Pattern>
+  <Pattern>
+    <Name>Beehive</Name>
+    <Rows>5</Rows>
+    <Columns>6</Columns>
+    <Values>8, 9, 13, 16, 20, 21</Values>
+  </Pattern>
+  <Pattern>
+    <Name>Loaf</Name>
+    <Rows>6</Rows>
+    <Columns>6</Columns>
+    <Values>8, 9, 13, 16, 20, 22, 27</Values>
+  </Pattern>
+  <Pattern>
+    <Name>Boat</Name>
+    <Rows>5</Rows>
+    <Columns>5</Columns>
+    <Values>6, 7, 11, 13, 17</Values>
+  </Pattern>
+  <Pattern>
+    <Name>Blinker</Name>
+    <Rows>5</Rows>
+    <Columns>5</Columns>
+    <Values>7, 12, 17</Values>
+  </Pattern>
+  <Pattern>
+    <Name>Toad</Name>
+    <Rows>6</Rows>
+    <Columns>6</Columns>
+    <Values>14, 15, 16, 19, 20, 21</Values>
+  </Pattern>
+  <Pattern>
+    <Name>Beacon</Name>
+    <Rows>6</Rows>
+    <Columns>6</Columns>
+    <Values>7, 8, 13, 14, 21, 22, 27, 28</Values>
+  </Pattern>
+  <Pattern>
+    <Name>Pulsar</Name>
+    <Rows>17</Rows>
+    <Columns>17</Columns>
+    <Values>38, 39, 45, 46, 56, 57, 61, 62, 70, 73, 75, 77, 79, 82, 87, 88, 89, 91, 92, 94, 95, 97, 98, 99, 105, 107, 109, 111, 113, 115, 123, 124, 125, 129, 130, 131, 157, 158, 159, 163, 164, 165, 173, 175, 177, 179, 181, 183, 189, 190, 191, 193, 194, 196, 197, 199, 200, 201, 206, 209, 211, 213, 215, 218, 226, 227, 231, 232, 242, 243, 249, 250</Values>
+  </Pattern>
+  <Pattern>
+    <Name>Light Weight Spaceship</Name>
+    <Rows>6</Rows>
+    <Columns>6</Columns>
+    <Values>0,3,10,12,16,19,20,21,22</Values>
+  </Pattern>
+  <Pattern>
+    <Name>Glider</Name>
+    <Rows>4</Rows>
+    <Columns>4</Columns>
+    <Values>2,4,6,9,10</Values>
+  </Pattern>
+</DocumentElement>
